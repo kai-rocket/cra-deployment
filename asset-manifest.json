@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cra-deployment/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cra-deployment/static/js/main.06227dff.chunk.js",
+    "main.js.map": "/cra-deployment/static/js/main.06227dff.chunk.js.map",
+    "runtime-main.js": "/cra-deployment/static/js/runtime-main.358f0b1a.js",
+    "runtime-main.js.map": "/cra-deployment/static/js/runtime-main.358f0b1a.js.map",
+    "static/js/2.bedd1424.chunk.js": "/cra-deployment/static/js/2.bedd1424.chunk.js",
+    "static/js/2.bedd1424.chunk.js.map": "/cra-deployment/static/js/2.bedd1424.chunk.js.map",
+    "index.html": "/cra-deployment/index.html",
+    "precache-manifest.5eed8c14aa94515961e7c6c84050e097.js": "/cra-deployment/precache-manifest.5eed8c14aa94515961e7c6c84050e097.js",
+    "service-worker.js": "/cra-deployment/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cra-deployment/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bedd1424.chunk.js.LICENSE.txt": "/cra-deployment/static/js/2.bedd1424.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cra-deployment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.358f0b1a.js",
+    "static/js/2.bedd1424.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.06227dff.chunk.js"
+  ]
+}
